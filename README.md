@@ -87,7 +87,7 @@ This project demonstrates the power of neural networks for sentiment analysis on
 **Français :**  
 1. Clonez le dépôt :  
    ```bash
-   git clone <https://github.com/Ken0uz/Sentiment-Analysis-Twitter-ARNN>
+   git clone https://github.com/Ken0uz/Sentiment-Analysis-Twitter-ARNN
 2. Ouvrez le fichier .ipynb dans Jupyter Notebook ou JupyterLab :
    ```bash
    jupyter notebook Sentiment_Analysis_ARNN.ipynb
@@ -95,7 +95,7 @@ This project demonstrates the power of neural networks for sentiment analysis on
 **English:**  
 1. Clone the repository :
    ```bash
-   git clone <https://github.com/Ken0uz/Sentiment-Analysis-Twitter-ARNN>
+   git clone https://github.com/Ken0uz/Sentiment-Analysis-Twitter-ARNN
 3. Open the .ipynb file in Jupyter Notebook or JupyterLab :
    ```bash
    jupyter notebook Sentiment_Analysis_ARNN.ipynb
